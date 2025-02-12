@@ -6,7 +6,7 @@ const products = [
     name: "Swastik Besan",
     description: "Premium quality besan crafted from carefully selected 100% pure chana dal. Our state-of-the-art processing ensures perfect texture and rich aroma in every pack. Ideal for both commercial and household use, it guarantees exceptional results in all your recipes - from crispy pakoras to soft kadhi. Each batch undergoes rigorous quality checks to maintain our high standards.",
     sizes: ["250g", "500g", "1kg", "10kg"],
-    image: "src/assets/images/max.png",
+    image: "https://ik.imagekit.io/f3cuvriq6/max.png?updatedAt=1739379962137",
     features: [
       { icon: Star, text: "Premium Quality" },
       { icon: Award, text: "Best Seller" },
