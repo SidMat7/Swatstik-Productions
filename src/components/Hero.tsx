@@ -18,7 +18,9 @@ const Hero = () => {
       >
         <div 
           className="absolute inset-0 bg-cover bg-center bg-no-repeat blur-[2px]"
-          style={{ backgroundImage: "url('https://ik.imagekit.io/f3cuvriq6/heroimage.jpeg?updatedAt=1739379962376')" }}
+          style={{
+            backgroundImage: `url('https://ik.imagekit.io/f3cuvriq6/heroimage.jpeg?updatedAt=1739379962376')`
+          }}
         />
         <div className="absolute inset-0 bg-gradient-to-br from-black/70 via-black/50 to-black/40 backdrop-blur-sm" />
       </motion.div>
